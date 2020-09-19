@@ -1,0 +1,29 @@
+{
+  "name": "binatna-kdidib",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlaaZorkane/binatna-kdidib.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlaaZorkane/binatna-kdidib/issues"
+  },
+  "homepage": "https://github.com/AlaaZorkane/binatna-kdidib#readme",
+  "dependencies": {
+    "dayjs": "^1.8.36",
+    "discord-command-parser": "^1.5.0",
+    "discord.js": "^12.3.1",
+    "dotenv": "^8.2.0",
+    "firebase": "^7.21.0",
+    "lodash": "^4.17.20",
+    "nodemon": "^2.0.4"
+  }
+}
