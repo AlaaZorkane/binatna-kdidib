@@ -1,5 +1,5 @@
 games
-  time {
+  [time: unix] {
     abida: 3
     estarossa: 1
   }
